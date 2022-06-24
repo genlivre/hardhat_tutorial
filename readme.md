@@ -1,13 +1,14 @@
 # hardhat Tutorial
 [https://hardhat.org/tutorial](https://hardhat.org/tutorial)
 
-# npmのインストール
+## 準備
+### npmのインストール
 ```npm install```
 
-# hardhatプロジェクトの作成(既にhardhatプロジェクトを作成済みの場合は不要)
+### hardhatプロジェクトの作成(既にhardhatプロジェクトを作成済みの場合は不要)
 ```npx hardhat```
 
-# hardhat compile
+### hardhat compile
 ```npx hardhat compile```
 
 ## テストの実行
